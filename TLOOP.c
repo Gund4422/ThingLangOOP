@@ -1,3 +1,5 @@
+// ThingLang OOP, a superset of thinglang, by intiha. thinglang was
+// made by Raya8877 at github.com.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
